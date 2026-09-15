@@ -4,7 +4,7 @@ https://www.mathworks.com/products/matlab-online/git.html
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Nombre completo [correo@tijuana.tecnm.mx]
+Nombre completo [Gael Sebastian Andrade Arellano l23212177@tectijuana.edu.mx]
 
 Modelado de Sistemas Fisiológicos
 
